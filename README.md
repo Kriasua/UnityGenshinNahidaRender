@@ -1,4 +1,4 @@
-# Nahida Render Project (NahidaProjectfrombilibili)
+# Nahida Render Project
 
 这是一个基于 Unity Universal Render Pipeline (URP) 的高级渲染项目，核心特色在于实现了一套 **PBR (基于物理的渲染) 与 NPR (非实感渲染/卡通渲染) 深度混合** 的方案。
 
